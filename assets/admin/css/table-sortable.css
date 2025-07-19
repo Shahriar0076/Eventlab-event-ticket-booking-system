@@ -1,0 +1,34 @@
+li.highlight.icon-move.item {
+  padding: 10px;
+  border: 1px solid #e5e5e5e5;
+  border-radius: 5px;
+  margin-bottom: 8px;
+  cursor: grabbing;
+  background: #fff;
+}
+
+li.highlight.icon-move.item.dragged {
+  opacity: 0.5;
+}
+
+.placeholder {
+  background: transparent;
+}
+
+@media only screen and (min-width: 768px) {
+  .ui-sortable-handle.ui-sortable-helper {
+    display: flex;
+    width: 100% !important;
+    justify-content: space-between;
+    border-block: 1px solid #e5e5e5e5;
+    background: #fff;
+  }
+
+  .ui-sortable-handle.ui-sortable-helper td {
+    border: none;
+  }
+}
+
+.sortable-table-row {
+  cursor: move;
+}
