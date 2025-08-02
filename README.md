@@ -21,7 +21,7 @@ It provides all the essential features to automate and grow your event ticket sa
 -   ✅ Ticket stock and availability control
 -   ✅ Detailed reporting & analytics
 -   ✅ Optimized for performance and scalability
--   ✅ Secure transactions and customer data privacy
+-   ✅ Secure transactions and customer data privacy 
 
 ---
 
